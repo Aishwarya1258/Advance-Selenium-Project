@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T16:57:43 IST" name="Default suite" finished-at="2024-03-19T16:57:43 IST" duration-ms="212">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T16:57:43 IST" name="Default test" finished-at="2024-03-19T16:57:43 IST" duration-ms="212">
+      <class name="workingwithunittestingtool.workingwithdataprovider2">
+        <test-method signature="detaDemo([Ljava.lang.String;)[pri:0, instance:workingwithunittestingtool.workingwithdataprovider2@6babf3bf]" started-at="2024-03-19T16:57:43 IST" name="detaDemo" data-provider="testdata" finished-at="2024-03-19T16:57:43 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@48bb62]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detaDemo -->
+        <test-method signature="detaDemo([Ljava.lang.String;)[pri:0, instance:workingwithunittestingtool.workingwithdataprovider2@6babf3bf]" started-at="2024-03-19T16:57:43 IST" name="detaDemo" data-provider="testdata" finished-at="2024-03-19T16:57:43 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7ce69770]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detaDemo -->
+      </class> <!-- workingwithunittestingtool.workingwithdataprovider2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
